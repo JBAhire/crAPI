@@ -10,7 +10,7 @@ know more about crAPI, please check [crAPI's overview][overview].
 
 ## QuickStart Guide
 
-### Docker
+### Docker 
 
 You'll need to have Docker installed and running on your host system.
 
