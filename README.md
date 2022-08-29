@@ -1,6 +1,6 @@
 # crAPI
 
-**c**ompletely **r**idiculous **API** (crAPI) will help you to understand the
+**C**ompletely **R**idiculous **API** (crAPI) will help you to understand the
 ten most critical API security risks. crAPI is vulnerable by design, but you'll
 be able to safely run it to educate/train yourself.
 
